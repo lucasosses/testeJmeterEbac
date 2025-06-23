@@ -5,6 +5,7 @@ Este repositório contém um teste feito com o Apache JMeter.
 ## Arquivos
 
 - `testPlan-Youtube.jmx`: plano de teste criado no JMeter
+- `termos.csv`: massa de dados para buscas
 - `README.md`: Instruções básicas de uso.
 
 ## Como executar
